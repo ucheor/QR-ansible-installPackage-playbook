@@ -4,11 +4,9 @@ To improve the reliability, visibility, and traceability of our infrastructure m
 
 Note: This is based off of May2025(17.4) project - setting up ansible servers and nodes - so might make more sense if you already have that set up.
 
-Will go back and polish my work but in case anyone needs to refernce the steps, here you go!
-
 **Steps:**
 
-Created a new folder - ansible-github - and moved terraform files so I can deploy and set up inventory infrastructure and configure ansible files automatically. Will be working from this new folder.
+Created a new folder - ansible-github - and moved terraform files so I can deploy and set up inventory infrastructure and configure ansible files automatically. Will be working from this new folder. Refer to May2025(17.4)
 
 ![setting_up_directory](images/setting_up_dir.png)
 
